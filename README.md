@@ -29,10 +29,21 @@ This project develops an intelligent energy optimization system using machine le
 # Output:
 ### Implementation of Datasets from kaggle and Openwhetherapp
 ![image](https://github.com/user-attachments/assets/29ffc3e5-c75a-4957-9c80-7abf631d0484)
+![image](https://github.com/user-attachments/assets/e20a852a-63ee-4611-9045-f6d91f366029)
 
+### Implementation of Explainable AI(XAI):
+![image](https://github.com/user-attachments/assets/cebfd354-a927-4a50-b836-3dfd327804a5)
+![image](https://github.com/user-attachments/assets/d5ae99ec-62ca-49d5-b762-7d153ae3c4f7)
+
+### Predicted Energy consumption values:
 ![Screenshot (421)](https://github.com/user-attachments/assets/c9c183d9-adf3-42ca-ab0d-26088245818c)
 
+### Accuracy:
 ![Screenshot (422)(1)(1)](https://github.com/user-attachments/assets/0f09d052-1fe7-4ea8-ba9c-29eb9f7e3899)
+
+### Completed Dashborad:
+
+![WhatsApp Image 2024-11-09 at 10 28 32_a27c8d51](https://github.com/user-attachments/assets/50686162-6ea0-414d-b62f-a429590a58cc)
 
 # Result:
 The project achieved significant energy savings and improved efficiency by over 20%, meeting key milestones. Short-term impacts included enhanced resource allocation, while long-term impacts align with sustainability goals. The solution is scalable and adaptable for various applications, fostering broader environmental benefits.
