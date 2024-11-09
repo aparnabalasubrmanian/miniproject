@@ -27,7 +27,7 @@ This project develops an intelligent energy optimization system using machine le
 ![Screenshot (423)(1)(1)](https://github.com/user-attachments/assets/fd453f19-ef26-4fd9-a1f9-754286d5437d)
 
 # Output:
-### Implementation of Datasets from kaggle and Openwhetherapp
+### Implementation of Datasets from kaggle and Openweatherapp:
 ![image](https://github.com/user-attachments/assets/29ffc3e5-c75a-4957-9c80-7abf631d0484)
 ![image](https://github.com/user-attachments/assets/e20a852a-63ee-4611-9045-f6d91f366029)
 
